@@ -318,10 +318,7 @@ body {
 /* FINAL - GEMOASTROLOGIA - GRID --NO RESPONSIVE-----------------------*/
 
 /* INICIO - BIOGRAFÍA - -----------------------------------------------*/
-.biografia {
-    
-    
-}
+
 .imagenes {
     
     display: flex;
@@ -329,16 +326,16 @@ body {
     height: 500px;
     padding: 100px 0px 0px 0px;
     justify-content: right;
-    background-image: url(../images/gente.png);
+    background-image: url(../images/cartafondo.jpg);
     background-size: cover;
     object-fit: cover;
 }
 
 .imagenes img {
-    width: 300px;
+    width: 330px;
     height: 300px;
     border-radius: 100%;
-    margin-left: -60px;
+    margin-right: 45px;
     
 }
 
